@@ -1,0 +1,18 @@
+{
+  "Foods": [
+    {
+      "food_image_url": "https://statics.vinpearl.com/bun-bo-hue-9_1628649149.jpeg",
+      "name": "Bún Bò",
+      "ingredients": "Bún, Thịt Bò,",
+      "price": "5434",
+      "id": 1
+    },
+    {
+      "food_image_url": "https://cafefcdn.com/2018/7/19/photo-2-1531984647242593960017.png",
+      "name": "Phở",
+      "ingredients": "Bún, Thịt Bò, Hành",
+      "price": "30000",
+      "id": 2
+    }
+  ]
+}
